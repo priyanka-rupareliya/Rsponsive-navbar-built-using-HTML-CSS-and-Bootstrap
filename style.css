@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid {
+    background-color: brown;
+    padding: 0px 50px;
+    
+}
+.link{
+    padding: 5px ;
+    
+}
+.color{color: white;}
+
+
+
+img {
+    width: 40px;
+    height: 40px;
+}
+
+.form-control  {
+    background-color: white;
+}
+
+.search {
+    margin: 10px 10px;
+}
+.dropdown{background-color: brown;
+            color: white;}
+.text{color: white;}
+            
+
+
+
+
+
+.button {
+    color: black;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: 10px 5px;
+    padding: 5px 10px;
+    background-color: white ;
+}
+
+li a {
+    color: white !important;
+}
